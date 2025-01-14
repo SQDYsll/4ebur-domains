@@ -1,5 +1,4 @@
 # 4ebur-domains
-All Domain and Subdomain adress (4eburnet)
 Данные этого файла предоставлены в целях ознакомления.
 
 Я чуть позже загружу python файл, который поможет подставить необходимые вам слова перед доменом и после него. Пример: domain(next.privat24.ua)->proxy
