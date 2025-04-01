@@ -5,7 +5,11 @@
 
 В данном репозитории присутствуют следующие сервисы:
 PrivatBank
+
 MonoBank
+
 Tik-Tok
+
 YouTube
+
 Discord
