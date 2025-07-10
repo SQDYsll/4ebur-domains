@@ -1,0 +1,4 @@
+# Clash Royale
+domain(game-assets-2.clashroyale.com)->proxy
+domain(game-assets.clashroyale.com)->proxy
+domain(cdn.id.supercell.com)->proxy          # если вы добавляли BrawlStars то там уже есть этот домен
