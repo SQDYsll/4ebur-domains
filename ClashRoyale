@@ -1,3 +1,2 @@
-# Clash Royale
-game-assets-2.clashroyale.com
-game-assets.clashroyaleapp.com
+# Clash Royale (здесь есть домены, но они никак не помогут зайти в игру. Только порты с 9330 по 9340)
+network(tcp,udp) && port(9330-9340)->proxy
