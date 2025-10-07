@@ -1,4 +1,2 @@
-# Hay Day (повторяются с BrawlStars)
-security-eu.id.supercell.com
-security-apac.id.supercell.com
-security-us.id.supercell.com
+# Hay Day (здесь есть домены, но они никак не помогут зайти в игру. Только порты с 9330 по 9340)
+network(tcp,udp) && port(9330-9340)->proxy
